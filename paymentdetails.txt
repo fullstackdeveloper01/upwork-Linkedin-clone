@@ -1,0 +1,16 @@
+vndamodar@gmail.com
+nalana@vdn@123
+publishable key :- pk_test_51JdqlfBCeXjCoMqA9kvCfL3NeJ1S3QD3ICvbmB66GwjwIvi9XafbWxFVEZqDUq0YENdHJY4OEhxM0QG5sb2HgRmi00ZPTT890M
+secret key :- sk_test_51JdqlfBCeXjCoMqA7KuYWCIO7hqxMhUb281wijlu7vw7IzO4Ys9dPHrGRZSzS8TLCL4m0NIOtjVuWh2T2Z7VB9nI00Ycmq0Hv0
+
+Account ID :   	acct_1JdqlfBCeXjCoMqA
+
+ locale  :    en
+
+ Stripe-Version: 2022-08-01 
+
+videos for payment gateway
+https://www.youtube.com/watch?v=BB-nXTPyNtE
+https://www.youtube.com/watch?v=OtLHh1Iugi0
+https://www.youtube.com/watch?v=rXtGfoeyF6w
+https://www.youtube.com/watch?v=0oHjwz-WHcc
