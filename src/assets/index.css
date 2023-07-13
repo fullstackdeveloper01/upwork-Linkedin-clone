@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media only screen and (min-width: 320px) and (max-width: 815px) {
+    .pt-sm-0{padding-top:0px!important;}
+    /*.pb-sm-0{padding-bottom:0px!important;}*/
+    .mb-sm-0{margin-bottom:0px!important;}
+    .py-sm-0{padding-bottom:0px!important;padding-top:0px!important;}
+    .ml-sm-0{margin-left:0px!important;}
+    .mt-sm-1{margin-top:1rem!important;}
+    .justify-sm-start{justify-content:start;}
+    .pl-sm-0{padding-left:0px;}
+    .ml-sm-1{margin-left:0.25rem;}
+    .mr-sm-1{margin-right:0.25rem;}
+    .w-96 {width: 14rem;}
+    .mb-sm-2{margin-bottom:2rem !important;}
+    .mb-sm-4{margin-bottom:1.5rem !important;}
+    .mb-sm-5{margin-bottom:3rem !important;}
+    .mb-sm-6{margin-bottom: 4rem !important;}
+    .d-sm-block{display:block!important;}
+    .modal-header .close{position: absolute;right: 0px;top: -38px;color: #fff;font-size: 34px;font-weight: 500;}
+    .sm-pb-0{padding-bottom:0px!important;}
+    .sm-pb-0.about-client{padding-bottom:0px!important;}
+}
